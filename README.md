@@ -1,2 +1,3 @@
 # php-express-socket.io
-You must test in an Apache server environment before running to recognize the domain address.
+You must test in an Apache server environment to recognize the domain address. 
+If you just run node server.js, I will not recognize the domain address.
