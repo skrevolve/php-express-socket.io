@@ -1,14 +1,12 @@
 <?php
-    include('db.php');
-
     session_start();
     if(isset($_SESSION["usr_name"])&&isset($_SESSION["usr_phone"])) {
-        $usr_name = $_SESSION["usr_name"];
-        $usr_phone = $_SESSION["usr_phone"];
+        //$usr_name = $_SESSION["usr_name"];
+        //$usr_phone = $_SESSION["usr_phone"];
     } else {
-        echo '<script>alert("인증정보가 없습니다. 로그인 해주시기 바랍니다.");location.href="xxx.php";</script>';
-        $usr_name = "";
-        $usr_phone = "";
+        //echo '<script>alert("인증정보가 없습니다. 로그인 해주시기 바랍니다.");location.href="xxx.php";</script>';
+        $usr_name = "Calvin";
+        //$usr_phone = "";
     }
 ?>
 <!doctype html>
