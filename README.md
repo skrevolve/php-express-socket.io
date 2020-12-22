@@ -1,4 +1,6 @@
 # php-express-socket.io
+[![Socket.io npm Version](https://badge.fury.io/js/socket.io.svg)](https://www.npmjs.com/package/socket.io)
+
 This is an example for configuring node.js servers in an APM environment.  
 Interpret the interpreter using php-express.  
 You must test in an Apache server environment to recognize the domain address.   
