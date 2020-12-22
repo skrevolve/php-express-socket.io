@@ -1,5 +1,5 @@
 # php-express-socket.io
-[![Socket.io npm Version](https://badge.fury.io/js/socket.io.svg)](https://www.npmjs.com/package/socket.io)
+[![Socket.io npm Version](https://img.shields.io/badge/socket.io-v3.0.4-green)](https://www.npmjs.com/package/socket.io)
 
 This is an example for configuring node.js servers in an APM environment.  
 Interpret the interpreter using php-express.  
